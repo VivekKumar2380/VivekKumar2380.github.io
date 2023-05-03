@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.c2486d6d.js",
+    "main.css": "/static/css/main.1e1c600e.css",
+    "main.js": "/static/js/main.e3e95dbf.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/myntra.png": "/static/media/myntra.6bad6898364f8f65f287.png",
+    "static/media/Ajio.png": "/static/media/Ajio.9b3642d46c98c1c78bc9.png",
+    "static/media/VivekKumarResume.pdf": "/static/media/VivekKumarResume.f2b31a9e5cde9c302a50.pdf",
+    "static/media/Buffer.png": "/static/media/Buffer.dc5fbd969d74b56211ef.png",
+    "static/media/VivekKumar.jpg": "/static/media/VivekKumar.b6528a41397996563fd2.jpg",
+    "static/media/home.svg": "/static/media/home.11d38661c5585fd9fd2858c3e4b20709.svg",
     "static/media/viveklogo.svg": "/static/media/viveklogo.c49c4d20993e59b0305c9c9d645bec63.svg",
+    "static/media/pre.svg": "/static/media/pre.52550f7d5abaf76c0972.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.c2486d6d.js.map": "/static/js/main.c2486d6d.js.map",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.1e1c600e.css.map": "/static/css/main.1e1c600e.css.map",
+    "main.e3e95dbf.js.map": "/static/js/main.e3e95dbf.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c2486d6d.js"
+    "static/css/main.1e1c600e.css",
+    "static/js/main.e3e95dbf.js"
   ]
 }
