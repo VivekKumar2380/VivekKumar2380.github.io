@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.a527857e.css",
-    "main.js": "/static/js/main.e341b62a.js",
+    "main.js": "/static/js/main.bc690865.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Cleardekho.png": "/static/media/Cleardekho.0a1da57025f813e4eca0.png",
     "static/media/Ajio.png": "/static/media/Ajio.9b3642d46c98c1c78bc9.png",
-    "static/media/VivekKumarResume.pdf": "/static/media/VivekKumarResume.9b04fa0b7d05157c9fd0.pdf",
+    "static/media/VivekKumarResume.pdf": "/static/media/VivekKumarResume.2a5021baa4608f1b55a3.pdf",
     "static/media/VivekKumar1.jpg": "/static/media/VivekKumar1.7ae2a9d7d790317cd856.jpg",
     "static/media/Buffer.png": "/static/media/Buffer.dc5fbd969d74b56211ef.png",
     "static/media/VivekKumar.jpg": "/static/media/VivekKumar.b6528a41397996563fd2.jpg",
@@ -16,11 +16,11 @@
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.a527857e.css.map": "/static/css/main.a527857e.css.map",
-    "main.e341b62a.js.map": "/static/js/main.e341b62a.js.map",
+    "main.bc690865.js.map": "/static/js/main.bc690865.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a527857e.css",
-    "static/js/main.e341b62a.js"
+    "static/js/main.bc690865.js"
   ]
 }
